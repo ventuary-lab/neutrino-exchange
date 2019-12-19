@@ -1,0 +1,23 @@
+{
+  "name": "neutrino-exchange",
+  "version": "1.0.0",
+  "description": "Neutrino Exchange",
+  "main": "index.js",
+  "dependencies": {
+    "@waves.exchange/storage-provider": "0.0.19"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ventuary-lab/neutrino-exchange.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ventuary-lab/neutrino-exchange/issues"
+  },
+  "homepage": "https://github.com/ventuary-lab/neutrino-exchange#readme"
+}
